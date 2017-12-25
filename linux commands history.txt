@@ -1,0 +1,580 @@
+[gaja@localhost ~]$ history
+    1  su -
+    2  su
+    3  sudo su
+    4  su -
+    5  sudo su-
+    6  sudo su -
+    7  sudo su
+    8  su
+    9  sudo su
+   10  su -
+   11  which docker
+   12  clear
+   13  su -
+   14  ifconfig
+   15  hostname
+   16  ip route
+   17  su -
+   18  su - root
+   19  su -
+   20  ls
+   21  ls-lrt
+   22  cd /documents
+   23  cd documents
+   24  cd documents/
+   25  clear
+   26  su -
+   27  clear
+   28  su -
+   29  cat /etc/passwd
+   30  clear
+   31  cat > test
+   32  clear
+   33  grep unix test
+   34  grep unix python
+   35  grep unix test
+   36  clear
+   37  grep python test
+   38  grep shell test
+   39  grep -i shell test
+   40  grep -in shell test
+   41  grep -inc shell test
+   42  grep script test
+   43  grep -w script test
+   44  grep -o script test
+   45  grep -oc script test
+   46  clear
+   47  grep -v script test
+   48  grep "script$" test
+   49  grep "programing$" test
+   50  grep -c "^$" test
+   51  grep -cv "^$" test
+   52  clear
+   53  ls -l
+   54  cat test
+   55  clear
+   56  alias a=clear
+   57  a
+   58  cat test
+   59  grep "shell" test
+   60  grep -n "shell" test
+   61  ls
+   62  cd test
+   63  cd /test
+   64  cd test/
+   65  /cd test
+   66  cd /test
+   67  cd testhi 
+   68  clear
+   69  cd /test
+   70  clear
+   71  ls
+   72  cd 
+   73  cd/test
+   74  clear
+   75  ls
+   76  cat test
+   77  vim test
+   78  cd /test
+   79  cd test
+   80  cd /etc/test
+   81  cd /etc
+   82  ls
+   83  cd ..
+   84  clear
+   85  cd /
+   86  cd  /test
+   87  ls
+   88  cd ..
+   89  cd 
+   90  ls
+   91  cd test
+   92  ls-ltr
+   93  ls -ltr
+   94  vim test
+   95  ls -1
+   96  ls -l
+   97  ls -i
+   98  ls -a
+   99  ls -la
+  100  ls -r
+  101  clear
+  102  pwd
+  103  uname
+  104  clear
+  105  mkdir group
+  106  cd /group
+  107  ls
+  108  cd group
+  109  cd d1; touch f1;touch f2; cd ..
+  110  clear
+  111  cd group
+  112  mkdir d1;cd d1;touch f1;touch f2;cd ..;
+  113  ls
+  114  cd d1
+  115  ls
+  116  cd ..
+  117  ls
+  118  rm group
+  119  rm -group
+  120  ls
+  121  rmdir group
+  122  rmdir -group
+  123  ls
+  124  ls -lrt
+  125  rmdir group
+  126  cd group
+  127  cd d1
+  128  rm f1 f2
+  129  ls
+  130  group
+  131  cd ..
+  132  rmdir d1
+  133  cd ..
+  134  rmdir group
+  135  ls
+  136  cd group
+  137  ls'
+  138  ls
+  139  rm f1
+  140  la
+  141  ls
+  142  rm f2
+  143  ls
+  144  rmdir group
+  145  cd ..
+  146  rmdir group
+  147  ls
+  148  cd ~
+  149  cd/etc/x11
+  150  cd/etc
+  151  cd /etc
+  152  cd etc
+  153  ls
+  154  cd selinux
+  155  ls
+  156  cd ..
+  157  cd ~
+  158  clear
+  159  cd /root
+  160  su -
+  161  pewd
+  162  pwd
+  163  cd 
+  164  ls -a /etc
+  165  clear
+  166  mkdir myscript.sh
+  167  cd myscript .sh
+  168  cd myscript.sh
+  169  touch 1.sh
+  170  rm 1.sh
+  171  cd..
+  172  cd ..
+  173  ls
+  174  rmdir myscript.sh
+  175  ls
+  176  clear
+  177  mkdir shell scripts
+  178  cd shell scripts
+  179  ls
+  180  cd ..
+  181  ls
+  182  rmdir shell scripts
+  183  ls
+  184  mkdir shellscript
+  185  cd shellscript
+  186  touch 1.sh
+  187  vim 1.sh
+  188  echo 1.sj
+  189  ]1.sh
+  190  cat 1.sh
+  191  touch 2.sh
+  192  vim 2.sh
+  193  cat 2.sh
+  194  $ 1.sh
+  195  pwd
+  196  ./1.sh
+  197  chmod 755 1.sh 
+  198  chmod 755 2.sh
+  199  ./1.sh
+  200  ./2.sh
+  201  vim 2.sh
+  202  ./2.sh
+  203  vim 2.sh
+  204  ./2.sh
+  205  clear
+  206  cd 
+  207  su -
+  208  ls
+  209  cs shellscript
+  210  cd shellscript
+  211  ls
+  212  which bash
+  213  which sh
+  214  pwd
+  215  clear
+  216  ls
+  217  chmod u+x 1.sh
+  218  ls -lrt 1.sh
+  219  ./1.sh
+  220  bash 1.sh
+  221  cleaer
+  222  clear
+  223  chmod +x 1.sh
+  224  ls -lrt 
+  225  ./1.sh
+  226  echo $todat
+  227  clear
+  228  history
+  229  clear
+  230  echo $shell
+  231  cd ..
+  232  echo $shell
+  233  echo$shell
+  234  xterm -e /bin/cat
+  235  /bin/cat
+  236  clear
+  237  $ ps -p $$
+  238  echo $SHELL
+  239  ps
+  240  whoami
+  241  ps -ef
+  242  ps -ef |grep $USER
+  243  clear
+  244  echo"hi" > test
+  245  touch test5.txt
+  246  cat test5.txt
+  247  ls
+  248  echo "hello" > test5.txt
+  249  cat test5.txt
+  250  echo "hi" >> test5.txt
+  251  cat test5.txt
+  252  ls
+  253  ls -l
+  254  ls -lrt
+  255  clear
+  256  mkdir siva
+  257  cd siva
+  258  ls
+  259  ls -l
+  260  echo "hhh" test
+  261  echo "hii" >> test
+  262  cat test
+  263  ls
+  264  mkdir -p siva/giri
+  265  cat siva
+  266  rmdir siva
+  267  ls
+  268  clear
+  269  ls
+  270  rmdir siva/
+  271  ls
+  272  cd ..
+  273  rmdir siva/
+  274  ls
+  275  ls -l
+  276  sudo chmod 777 test
+  277  clear
+  278  touch hyd{1....5}
+  279  touch hyd{1....5}.txt
+  280  cat hyd{1...5}.txt
+  281  wc shiva
+  282  wc
+  283  wc -lc
+  284  wc -ll
+  285  wc -lw
+  286  clear
+  287  mkdir shivakumar
+  288  cd shivakumar
+  289  ls
+  290  ls -l
+  291  echo "hi how r u" > test1.txt
+  292  cat test1.txt
+  293  echo "hi good evening" test1.txt
+  294  echo "hello what" >> test1.txt
+  295  cat test1.txt
+  296  ls
+  297  ls -l
+  298  ls -lrt
+  299  cd ..
+  300  redir shivakimar/
+  301  rmdir shivakumar
+  302  ls
+  303  rmdir shivakumar/
+  304  cd shivakumar
+  305  ls
+  306  removedir shivakumar/
+  307  rmdir shivakumar/
+  308  ls -l
+  309  ls -lrt
+  310  cd ..
+  311  ls 
+  312  mkdir giri/raju
+  313  mkdir -p giri/ran
+  314  cat giri
+  315  cd giri
+  316  ls
+  317  cd ..
+  318  ls
+  319  rmdir giri
+  320  ls
+  321  ls -l
+  322  clear
+  323  touch rajesh.txt
+  324  echo"hello" > rajesh.txt
+  325  echo "how" > rajesh.txt
+  326  cat rajesh.txt
+  327  touch hyd{1....5} rajesh.txt
+  328  cat rajesh.txt
+  329  cat hyd{1....5}
+  330  cat hyd{1....5} rajesh.txt
+  331  clear
+  332  touch ban{1...4}.txt
+  333  cat ban{1...4}.txt
+  334  cd ban{1...4}
+  335  clear
+  336  mkdir hareesh
+  337  cd hareesh
+  338  ls
+  339  touch pune{1...5}.txt
+  340  echo "pune1" >.txt
+  341  cat txt
+  342  cat pune{1...5}.txt
+  343  ls 
+  344  echo "pune1.txt"
+  345  rm -pune1.txt
+  346  clear
+  347  history
+  348  clear
+  349  cd ..
+  350  cd ~
+  351  cd /
+  352  ;s
+  353  ls
+  354  pwd
+  355  uname
+  356  who
+  357  whoami
+  358  clear
+  359  cd ~
+  360  ls -l
+  361  clear
+  362  ls -l
+  363  clear
+  364  ls -lrt
+  365  clear
+  366  uname -a
+  367  man -ls
+  368  man
+  369  man -a
+  370  man -ls
+  371  clear
+  372  date
+  373  time
+  374  clear
+  375  echo "hiii" > test
+  376  cat test
+  377  echo "hello" >> test
+  378  cat test
+  379  ls
+  380  ls -l
+  381  chmod test
+  382  sudo chmod test
+  383  clear
+  384  pwd
+  385  who
+  386  whoami
+  387  uname
+  388  mkdir shiva
+  389  ls
+  390  cd shiva
+  391  ls
+  392  touch asdff
+  393  ls
+  394  rmdir shiva
+  395  cd ..
+  396  rmdir shiva
+  397  cd shiva
+  398  rm asdff
+  399  ls
+  400  cd ..
+  401  rmdir shiva
+  402  ls
+  403  rm ban{1...4}.txt hyd{1....5} hyd{1....5} .txt rajesh.txt test5.txt
+  404  rm ban{1...4}.txt
+  405  rm -rf ban{1...4}.txt
+  406  rm -f hyd{1....5}  hyd{1....5}.txt
+  407  ls
+  408  rmdir giri  hareesh shivakumar siva 
+  409  rmdir -rf siva shivakumar hareesh  giri
+  410  ls
+  411  cd giri
+  412  ls
+  413  cd ran
+  414  ls
+  415  cd ..
+  416  rmdir ran
+  417  cd ..
+  418  rmdir giri
+  419  cd hareesh 
+  420  ls
+  421  rm pune{1...5}.txt
+  422  cd ..
+  423  rmdir hareesh
+  424  cd hareesh 
+  425  ls
+  426  cd ..
+  427  ls
+  428  rmdir hareesh 
+  429  cd hareesh
+  430  ls
+  431  rmdir hareesh/
+  432  cd ..
+  433  rmdir hareesh
+  434  rmdir hareesh/
+  435  cd siva
+  436  ls
+  437  cd siva
+  438  ls
+  439  rmdir siva
+  440  rmdir giri
+  441  rm test
+  442  ls
+  443  cd ..
+  444  rmdir siva
+  445  ls
+  446  cd shivakumar
+  447  ls
+  448  rm test1.txt
+  449  ls
+  450  clear
+  451  cd 
+  452  cd ..
+  453  cd 
+  454  ls
+  455  cd hareesh
+  456  ls
+  457  cd 
+  458  cd shivakumar 
+  459  ls
+  460  cd 
+  461  cd siva 
+  462  ld
+  463  ls
+  464  rmdir siva
+  465  ls
+  466  rm test
+  467  ls
+  468  cd ..
+  469  rmdir siva
+  470  ls
+  471  rmdir -rf shivakumar 
+  472  rmdir -f shivakumar 
+  473  clear
+  474  ls
+  475  cd test
+  476  ls -l
+  477  rmdir shivakumar
+  478  ls
+  479  rmdir hareesh
+  480  cd hareesh
+  481  l
+  482  ls
+  483  ls -a
+  484  cd .
+  485  rmdir . 
+  486   rm -rf/*
+  487  rm -rf*
+  488  rm -rf *
+  489  ls
+  490  cd ..
+  491  rmdir hareesh
+  492  cd hareesh
+  493  ls
+  494  clear
+  495  ls -a
+  496  rm .txt
+  497  rm *
+  498  rm -rf *
+  499  ls
+  500  ls-a
+  501  ls -a
+  502  ls -lrt
+  503  ls -a
+  504  cd ..
+  505  cd hareesh
+  506  ls -a
+  507  ls -i
+  508  ls -ai
+  509  rm -rf 34245766 
+  510  ls -a
+  511  ls -al
+  512  chmod 777 .
+  513  ls -al
+  514  chmod 777 ..
+  515  ls -al
+  516  ls
+  517  ls -al
+  518  rmdir .
+  519  rm -rf *
+  520  ls -a
+  521  su
+  522  ls 
+  523  cd test4
+  524  rm test4
+  525  ls
+  526  cd 
+  527  rmdir test4
+  528  ls
+  529  clear
+  530  history
+  531  history -l
+  532  ls
+  533  cd test4
+  534  ls
+  535  cd ..
+  536  rmdir -rf test4
+  537  cd test 4
+  538  cd test4
+  539  rm test4
+  540  cd ..
+  541  su -root
+  542  su 
+  543  cd 
+  544  pwd
+  545  ls
+  546  cat test
+  547  rm test
+  548  ls
+  549  ls -a
+  550  clear
+  551  mkdir test4
+  552  cd test4
+  553  ls
+  554  touch test4
+  555  echo "hi" > test4
+  556  cat test4
+  557  vi
+  558  vim test4
+  559  cat test4
+  560  vim test4
+  561  cat test4
+  562  grep 'a' test4
+  563  grep 'are' test4
+  564  cd 
+  565  ls
+  566  ls -a
+  567  clear
+  568  ls
+  569  ls -l
+  570  chmod 755 test4
+  571  ls -l
+  572  chown root
+  573  chown gaja:root test4
+  574  su -
+  575  cd ..
+  576  cd 
+  577  history
+[gaja@localhost ~]$ 
+[gaja@localhost ~]$ 
